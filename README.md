@@ -1,2 +1,2 @@
 # CSC-220
-Computer Programming II
+Computer Programming II Assignments & Labs
